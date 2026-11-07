@@ -1,0 +1,3 @@
+:HL["/_next/static/chunks/02we4tn0lyu8l.css","style"]
+:HC["/",""]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"masla","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"prada-paradoxe","siblings":["page","pol","tsena"]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"Dk277jJvU8yYh0UDGfVmA"}
